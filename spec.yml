@@ -1,7 +1,7 @@
 ---
 
 language:
-  docker_image: "hexletbasics/exercises-prolog"
+  docker_image: "ghcr.io/hexlet-basics/exercises-prolog"
   extension: pl
   exercise_filename: main.pl
   exercise_test_filename: main.plt
